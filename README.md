@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valtervalik" alt="valtervalik" /></a> </p>
 
-- 🔭 I’m currently working on **Kubamatica**
+- 🔭 I’m currently working on **Kubamatica** and **Ciberiuz** projects
 
 - 🌱 I’m currently learning **Docker, Kubernetes, AWS**
 
