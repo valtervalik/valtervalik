@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valtervalik" alt="valtervalik" /></a> </p>
 
-- 🔭 I’m currently working on **Kai-Mú** and **Ciberiuz** projects
-
-- 🌱 I’m currently learning **Nestjs**
+- 🔭 I’m currently working on **Kai-Mú** project
 
 - 📝 I regularly write articles on [https://ecency.com/@valtervalik/posts](https://ecency.com/@valtervalik/posts)
 
-- 💬 Ask me about **React js, Next js, Express js**
+- 💬 Ask me about **React.js, Next.js, Express.js, Nest.js**
 
 - 📫 How to reach me **valtervaralik@gmail.com**
 
