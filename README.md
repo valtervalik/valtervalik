@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valtervalik" alt="valtervalik" /></a> </p>
 
-- 🔭 I’m currently working on **NebulaTerra* project
+- 🔭 I’m currently working on **NebulaTerra** project
 
 - 💬 Ask me about **Javascript, Typescript, React.js, Next.js, Express.js, Nest.js**
 
