@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Valter Valik</h1>
-<h3 align="center">A passionate fullstack developer from Cuba</h3>
+<h3 align="center">A passionate Software Developer Engineer from Cuba</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valtervalik&label=Profile%20views&color=0e75b6&style=flat" alt="valtervalik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valtervalik" alt="valtervalik" /></a> </p>
 
-- 🔭 I’m currently working on **Kai-Mú** project
+- 🔭 I’m currently working on **NebulaTerra* project
 
-- 📝 I regularly write articles on [https://ecency.com/@valtervalik/posts](https://ecency.com/@valtervalik/posts)
-
-- 💬 Ask me about **React.js, Next.js, Express.js, Nest.js**
+- 💬 Ask me about **Javascript, Typescript, React.js, Next.js, Express.js, Nest.js**
 
 - 📫 How to reach me **valtervaralik@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GJ2Rsh_e59b9jDLcgTYr1fjEgK6OpAcW/view?usp=share_link](https://drive.google.com/file/d/1GJ2Rsh_e59b9jDLcgTYr1fjEgK6OpAcW/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
