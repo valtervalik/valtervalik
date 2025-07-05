@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer Engineer from Cuba</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MIST project<br>💬 Ask me about Javascript, Typescript, React.js, Next.js, Express.js, Nest.js, MongoDB<br>📫 How to reach me valtervaralik@gmail.com
+🔭 I’m currently working on MIST project<br>💬 Ask me about Javascript, Typescript, React.js, Next.js, Express.js, Nest.js, MongoDB<br>📫 How to reach me valtervalik.dev@gmail.com
 
 
 ## 🌐 Socials:
